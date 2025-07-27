@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Serena Vyuha Chintala!
 
-<!--
-**serenavyuhachintala/serenavyuhachintala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Business Analytics Master's graduate based in the UK with 6+ years of experience in customer support, technical support, and AI/ML and data analysis.
 
-Here are some ideas to get you started:
+📊 I'm transitioning into Data Analytics with a strong interest in solving business problems using data-driven insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tools I Use:
+- Power BI, Tableau
+- Excel, R (basics), Python (learning)
+- SQL
+
+Currently learning: Python for Data Analysis (Pandas, Matplotlib)
+
+Connect with me on [https://www.linkedin.com/in/serenavyuhachintala/](url)
